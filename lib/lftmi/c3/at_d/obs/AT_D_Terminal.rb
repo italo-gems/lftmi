@@ -1,0 +1,1 @@
+#AT_D_Terminal_componente

@@ -1,0 +1,1 @@
+#Config_final_AP_componente

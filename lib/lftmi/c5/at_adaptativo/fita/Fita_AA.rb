@@ -1,0 +1,1 @@
+#Fita_AA_componente
