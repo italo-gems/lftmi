@@ -13,4 +13,3 @@ require "lftmi"
 
 require "irb"
 IRB.start(__FILE__)
-

@@ -35,4 +35,3 @@ module Lftmi
 
   # Your code goes here...
 end
-

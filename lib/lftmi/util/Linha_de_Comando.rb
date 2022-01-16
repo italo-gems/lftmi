@@ -1,6 +1,6 @@
 module Lftmi
   module Linha_de_Comando
-    def self.tratar( argv, w = "", grau = 0 )
+    def self.tratar(argv, w = "", grau = 0)
       case argv.size
       when 0
         puts "??? Indique a cadeia de entrada 'w'"
@@ -16,4 +16,3 @@ module Lftmi
     end
   end
 end
-

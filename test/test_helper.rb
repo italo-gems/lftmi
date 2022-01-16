@@ -6,4 +6,3 @@ require "lftmi"
 require "minitest/autorun"
 # Italo
 require File.expand_path("../../lib/lftmi.rb", __FILE__)
-

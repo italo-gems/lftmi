@@ -11,4 +11,3 @@ class TestLftmi < Minitest::Test
   #  assert false
   # end
 end
-
